@@ -1,0 +1,217 @@
+* {
+    margin: 0 auto;
+}
+
+.head{
+    height: 85px;
+    display: flex;
+}
+
+.img1{
+    margin-left: 130px;
+    margin-top: 25px;
+    height: 43px;
+    width: 200px;
+}
+
+.menu_text{
+    margin-left: 50%;
+    display: flex;
+    height: 17px;
+    margin-top: 22px;
+}
+
+.menu{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    margin-left: 25px;
+}
+
+.baner{
+    height: 840px;
+    width: 100%;
+    background-color: #54A3DA;
+    border-top: 1px solid transparent;
+    display: flex;
+    z-index: -5;
+}
+
+.text_baner{
+    height: 349px;
+    width: 576px;
+    margin-top: 240px;
+    margin-left: 161px;
+}
+
+.text_baner1{
+    font-size: 52px;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}
+
+.text_baner2{
+    font-size: 24px;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    margin-top: 42px;
+}
+
+.signup{
+    margin-top: 58px;
+    height: 60px;
+}
+
+.signup_text{
+    display: flex;
+    height: 28px;
+    width: 150px;
+    align-items: center;
+    border-left: 1px solid transparent;
+    float: left;
+}
+
+.signup1, .signup2{
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}
+
+.FREE{
+    width: 58px;
+    height: 28px;
+    background-color: #FFCE54;
+    border-radius: 7px;
+}
+
+.signup2{
+    margin-left: 10px;
+    margin-top: 4px;
+}
+
+.e-mail{
+    height: 55px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.mail{
+    height: 55px;
+    width: 424px;
+    border: 1px white solid;
+    border-radius: 5px;
+}
+
+.sign-butt{
+    background-color: #77C344;
+    width: 114px;
+    height: 55px;
+    border-radius: 5px;
+    margin-left: 36px;
+}
+
+.sign_text{
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    margin-top: 18px;
+    margin-left: 25px;
+}
+
+.partners{
+    height: 159px;
+    width: 100%;
+    background-color: #F8F8F8;
+    align-items: center;
+    display: flex;
+}
+
+.baner_img{
+    position: relative;
+    left: 179px;
+    margin-left: 20px;
+}
+
+.why_us{
+    height: 1020px;
+}
+
+.why_us2{
+    display: flex;
+}
+
+.why_app, .diffrent_text{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 119px;
+}
+
+.whyimg{
+    margin: 157px 129px;
+    width: 501px;
+    height: 588px;
+}
+
+.whyimg2{
+    position: relative;
+    height: 664px;
+    top: 115px;
+    left: 51px;
+}
+
+.diffrent{
+    background-color: #F1F1F2;
+    background-image: url(./img/Layer\ 23@1X.png);
+    height: 733px;
+    border: transparent solid 1px;
+}
+
+.content{
+    margin-top: 168px;
+    margin-left: 124px;
+}
+
+.zag{
+    display: flex;
+    width: 462px;
+    margin-left: 0;
+}
+
+.zagt {
+    font-size: 28px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.dift{
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+    width: 725px;
+    margin-left: 0;
+    margin-top: 40px;
+}
+
+.difimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 44px;
+}
+
+.img2{
+    margin-left: 130px;
+    margin-top: 57px;
+    height: 27px;
+    width: 178px;
+}
+
+.down{
+    display: flex;
+    height: 140px;
+}
+
+.menu_text2{
+    margin-left: 50%;
+    display: flex;
+    height: 17px;
+    margin-top: 63px;
+}
